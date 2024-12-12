@@ -1,5 +1,5 @@
 
-import { useRef, useState } from "react";
+import {useState } from "react";
 import Fruit from "./components/Fruit";
 import FruitForm from "./components/FruitForm";
 
